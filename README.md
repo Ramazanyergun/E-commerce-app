@@ -1,2 +1,1 @@
-# E-commerce app
-Internship project about Flutter Dart programming language for TNC Group
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
