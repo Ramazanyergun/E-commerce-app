@@ -29,13 +29,15 @@ z
    git clone https://github.com/Ramazanyergun/E-commerce-app
 
 2. Proje dizinine gidin:
-
+  ```bash
     cd dart_application_1
 
 3. Gerekli paketleri indirin:
+  ```bash
     flutter pub get
 
 4. Uygulamayı bir emülatör veya fiziksel cihazda çalıştırın:
+  ```bash
     flutter run
 
 ## 📸 Uygulama Ekran Görüntüleri
