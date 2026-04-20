@@ -23,24 +23,26 @@ Yönergeye uygun olarak proje aşağıdaki mimariyle organize edilmiştir:
 
 ## 🚀 Çalıştırma Adımları
 Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
-z
+
 1. Bu depoyu klonlayın:
    ```bash
    git clone https://github.com/Ramazanyergun/E-commerce-app
 
 2. Proje dizinine gidin:
-  ```bash
+    ```bash
     cd dart_application_1
 
+
 3. Gerekli paketleri indirin:
-  ```bash
+    ```bash
     flutter pub get
+ 
 
 4. Uygulamayı bir emülatör veya fiziksel cihazda çalıştırın:
-  ```bash
+    ```bash
     flutter run
 
 ## 📸 Uygulama Ekran Görüntüleri
 
 
-![alt text](Screenshot_23.png) ![alt text](Screenshot_21.png) ![alt text](Screenshot_22.png)
+![alt text](Screenshot_21.png) ![alt text](Screenshot_22.png) ![alt text](Screenshot_23.png) 
